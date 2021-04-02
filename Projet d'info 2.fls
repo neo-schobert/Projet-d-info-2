@@ -638,11 +638,52 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.toc
 INPUT c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.toc
 INPUT c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.toc
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmbx10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 OUTPUT c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.toc
 INPUT c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmr8.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmr9.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT c:/texlive/2020/texmf-dist/tex/latex/amsfonts/ueus.fd
+INPUT c:/texlive/2020/texmf-dist/tex/latex/amsfonts/ueus.fd
+INPUT c:/texlive/2020/texmf-dist/tex/latex/amsfonts/ueus.fd
+INPUT c:/texlive/2020/texmf-dist/tex/latex/amsfonts/ueus.fd
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/euler/eusm10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/euler/eusm10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/euler/eusm7.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmr9.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmr5.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi9.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi5.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy9.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy5.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/euler/eusm10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/euler/eusm5.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.aux
+INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
+INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
+INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi10.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi8.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi9.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr10.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr17.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr8.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr9.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy8.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb

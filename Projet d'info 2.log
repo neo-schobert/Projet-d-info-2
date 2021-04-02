@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.23)  2 APR 2021 08:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.23)  2 APR 2021 14:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -465,26 +465,136 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 101.
  (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.toc)
+) (c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 4.
+)
 \tf@toc=\write3
 \openout3 = `"Projet d'info 2.toc"'.
 
  [1
 
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.aux) ) 
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for U+eus on input line 169.
+ (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/ueus.fd
+File: ueus.fd 2013/01/14 v3.01 Euler Script
+) [2]
+c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.tex:206: Missing $ inserted.
+<inserted text> 
+                $
+l.206 La troisième fonction (suite_
+                                    Durand_Kerner1) fait :
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.tex:207: Missing $ inserted.
+<inserted text> 
+                $
+l.207 \begin{itemize}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.tex:207: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.207 \begin{itemize}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.tex:208: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.208     \item t
+                 rois affectations et une copie de tableau de taille $deg(P)...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 208
+[][]
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 208.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 208.
+
+c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.tex:209: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.209     \item b
+                 oucle de longueur $deg(P)$ dans laquelle on a un while à c...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 209
+[][]
+ []
+
+
+c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.tex:211: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211     \item U
+                 ne deuxième boucle (qui fera le coeur de notre complexité...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 211
+[][]
+ []
+
+
+c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.tex:213: LaTeX Error: \begin{document} ended by \end{itemize}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.213 \end{itemize}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.tex:213: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.213 \end{itemize}
+                   
+Things are pretty mixed up, but I think the worst is over.
+
+[3] (c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.aux) ) 
 Here is how much of TeX's memory you used:
- 10070 strings out of 479382
- 154258 string characters out of 5873307
- 473932 words of memory out of 5000000
- 26996 multiletter control sequences out of 15000+600000
- 431760 words of font info for 50 fonts, out of 8000000 for 9000
+ 10153 strings out of 479382
+ 155197 string characters out of 5873307
+ 482932 words of memory out of 5000000
+ 27042 multiletter control sequences out of 15000+600000
+ 456768 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,6n,85p,312b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr17.pfb>
-Output written on "c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.pdf" (1 page, 85914 bytes).
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi9.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "c:/Users/Schobert/Desktop/Projet d'info 2/Projet d'info 2.pdf" (3 pages, 217059 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 153 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
